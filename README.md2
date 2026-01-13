@@ -1,0 +1,16 @@
+# Comandos Básicos do Git
+
+## git init
+Inicializa um repositório Git.
+
+## git status
+Mostra o estado atual dos arquivos.
+
+## git add
+Adiciona todos os arquivos para staging.
+
+## git commit -m
+Salva as alterações com uma mensagem.
+
+## git push
+Envia as alteraclçoes para o GitHub.
